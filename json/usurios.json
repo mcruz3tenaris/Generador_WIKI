@@ -25,18 +25,12 @@
     },
     {
         "id": "5",
-        "nombre": "Martin Soto Ramirez",
-        "alias": "SOTO Martin",
-        "email": "MDSOTO@tenaris.com"
+        "nombre": "Leonardo Azamar",
+        "alias": "Azamar Leonardo",
+        "email": "lazamar@tenaris.com"
     },
     {
         "id": "6",
-        "nombre": "Eduardo Garcia",
-        "alias": "GARCIA Eduardo",
-        "email": "EDUAGARCIA@tenaris.com"
-    },
-    {
-        "id": "7",
         "nombre": "Arrieta Evelyn",
         "alias": "ARRIETA Evelyn",
         "email": "NARRIETA@tenaris.com"
